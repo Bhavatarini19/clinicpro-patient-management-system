@@ -14,6 +14,8 @@
 
 ## Architecture Diagram
 
+The system is deployed using AWS ECS (Fargate), ALB, RDS, and MSK within a secure VPC.
+
 ![Architecture](docs/architecture.png)
 
 ---
