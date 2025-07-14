@@ -1,0 +1,13 @@
+### Updates Patient
+PUT http://localhost:4000/patients/83c1b355-2386-4553-9472-c072d21f7628
+Content-Type: application/json
+
+{
+  "name" : "Bucky8990y7",
+  "email" : "bucky8965@example.com",
+  "address" : "123 main street22",
+  "dateOfBirth": "1995-08-19"
+}
+
+###
+

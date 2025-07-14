@@ -1,0 +1,6 @@
+### Delete Patient
+DELETE http://localhost:4000/patients/e8786889-55cf-4435-b39b-0e5419c43753
+
+
+###
+

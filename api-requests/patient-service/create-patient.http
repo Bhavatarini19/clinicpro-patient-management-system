@@ -1,0 +1,16 @@
+### POST request to create patients
+POST http://lb-d5a3670c.elb.localhost.localstack.cloud:4000/patients
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+
+{
+  "name" : "panther123",
+  "email" : "panther123@gmail.com",
+  "address" : "123 main street",
+  "dateOfBirth": "1995-08-19",
+  "registeredDate": "2025-02-01"
+}
+
+###
+
